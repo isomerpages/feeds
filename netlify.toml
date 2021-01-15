@@ -17,4 +17,4 @@
     Referrer-Policy = "no-referrer"
     X-Content-Type-Options = "nosniff"
     X-Frame-Options = "deny"
-    Content-Security-Policy = "default-src 'self'; script-src 'self' https://unpkg.com https://*.cloudfront.net; object-src 'self'; style-src 'self' https://unpkg.com https://*.cloudfront.net; img-src *; media-src *; frame-src 'none'; frame-ancestors 'none'; font-src * data:; connect-src 'self' https://sheety.co;"
+    Content-Security-Policy = "default-src 'self'; script-src 'self' https://unpkg.com https://*.cloudfront.net; object-src 'self'; style-src 'self' https://unpkg.com https://*.cloudfront.net; img-src *; media-src *; frame-src 'none'; frame-ancestors 'none'; font-src * data:; connect-src 'self' https://api.sheety.co;"
